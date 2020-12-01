@@ -1,0 +1,7 @@
+{
+  "app.header" : "<code>{fileName}</code> teste de linguagem" ,
+  "app.content" : "React" ,
+  "app.channel.plug": "teste para mudar lingua",
+  "app.plural": "{amount, plural, =0 {no languages} um {# one language} poucas {# several languages} muitos {# lots of languages} outros {# wrong fromat}}"
+
+}
